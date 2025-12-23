@@ -29,7 +29,7 @@ This is a responsive website built using Angular.
    ng serve
 
 5. Open in browser  
-   http://localhost:4200
+    http://localhost:55412/
 
 ## Author
 Ayswarya C S
